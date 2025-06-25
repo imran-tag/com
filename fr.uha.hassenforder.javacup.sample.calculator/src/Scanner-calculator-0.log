@@ -1,8 +1,0 @@
-Reading "C:\Users\XPS\eclipse-workspace\fr.uha.hassenforder.javacup.sample.calculator\src\Scanner-calculator.flex"
-Constructing NFA : 
-42 states in NFA
-Converting NFA to DFA : 
-................
-18 states before minimization, 14 states in minimized DFA
-Old file "C:\Users\XPS\eclipse-workspace\fr.uha.hassenforder.javacup.sample.calculator\src\fr\uha\hassenforder\javacup\sample\calculator\reader\Lexer.java" saved as "C:\Users\XPS\eclipse-workspace\fr.uha.hassenforder.javacup.sample.calculator\src\fr\uha\hassenforder\javacup\sample\calculator\reader\Lexer.java~"
-Writing code to "C:\Users\XPS\eclipse-workspace\fr.uha.hassenforder.javacup.sample.calculator\src\fr\uha\hassenforder\javacup\sample\calculator\reader\Lexer.java"
